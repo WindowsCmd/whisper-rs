@@ -1,3 +1,5 @@
+// Hey astrid, I'm not trying to shit on your github, but I'm trying to disambiguate some shit and I don't know how to contact your ass.
+
 use std::ffi::{c_float, c_int, CString};
 use std::marker::PhantomData;
 use whisper_rs_sys::whisper_token;
